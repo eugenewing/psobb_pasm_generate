@@ -1,0 +1,6 @@
+# Временные файлы MS Office (Word, Excel, PowerPoint)
+~$*
+.~lock.*
+# Папки Pasm_generate
+Input/
+Output/
